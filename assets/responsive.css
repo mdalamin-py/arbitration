@@ -1,0 +1,1409 @@
+@media (min-width: 320px) and (max-width: 575.98px) {
+
+    .arbitration-topics,
+    .blogs-cards,
+    .all-news {
+        margin-left: 25px;
+        margin-right: 25px;
+
+    }
+
+    .blogs-images,
+    .blogs-imges-two,
+    .multi-businesses,
+    .business-border,
+    .banner-description,
+    .details-item-description,
+    hr,
+    .details-infos,
+    .most-recents,
+    .all-cards-details{
+        display: none;
+    }
+
+    .backgrounds-images {
+        width: 100%;
+        height: 138px;
+    }
+
+    .blogs-img-content>h1 {
+        font-size: 32px;
+        font-weight: 700;
+        color: #FFF;
+        padding-top: 45px;
+        padding-left: 28px;
+        text-align: start;
+    }
+
+    .blogs-img-content>p {
+        margin-top: 8px;
+        font-size: 16px;
+        font-weight: 400;
+        color: #FFF;
+        padding-left: 28px;
+        text-align: start;
+    }
+
+    .arbitration-filters {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+    }
+
+    .arbitration-title {
+        font-size: 24px;
+        font-weight: 600;
+        color: #1D1D1D;
+    }
+
+    .arbitration-topics-items,
+    .detail-info,
+    .real-estate-items {
+        flex-direction: column;
+    }
+
+    .topics-item-one>img {
+        width: 100%;
+        height: 276.029px;
+        object-fit: cover;
+        border-radius: 8px;
+    }
+
+    .filter-item {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .blog-info-banner {
+        display: flex;
+        align-items: center;
+        margin-top: 12px;
+        gap: 4px;
+    }
+
+    .blog-info-banner>a {
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: 400;
+        color: #032D42;
+    }
+
+    .blog-title {
+        font-size: 18px;
+        font-weight: 600;
+        margin-top: 12px;
+        color: #1D1D1D;
+    }
+
+    .blog-description {
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 5px;
+        color: #474747;
+    }
+
+    .blogs-details {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 18px;
+    }
+
+    .reads-infos {
+        display: flex;
+        align-items: center;
+        gap: 4px;
+        color: #1E3AE5;
+    }
+
+    .reads-infos>a {
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: 400;
+        color: #1E3AE5;
+    }
+
+    .read-info>a {
+        font-size: 12px;
+        font-weight: 400;
+    }
+
+    .blogs-read {
+        font-size: 12px;
+        font-weight: 400;
+        color: #1E3AE5;
+    }
+
+    .blog-detail {
+        display: flex;
+        align-items: center;
+        gap: 4px;
+    }
+
+    .blog-detail>a {
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: 400;
+        color: #474747;
+    }
+
+    .real-estate-banner>img {
+        width: 100%;
+    }
+
+
+    .recent-title {
+        text-align: center;
+        margin-top: 80px;
+    }
+
+    .blogs-cards {
+        flex-direction: column;
+    }
+
+    .card-banner>img {
+        width: 100%;
+        height: 276.029px;
+        object-fit: cover;
+        border-radius: 8px 8px 0px 0px;
+    }
+
+    .blog-card-title {
+        width: 100%;
+        font-size: 18px;
+        font-weight: 600;
+        color: #1D1D1D;
+    }
+
+    .blog-card-details {
+        width: 100%;
+    }
+
+    .blog-card-description {
+        width: 100%;
+        color: #474747;
+        font-size: 16px;
+        font-weight: 400;
+    }
+
+    .more-btn>button {
+        padding: 20px 40px;
+        border-radius: 4px;
+        background-color: #62D84E;
+        border: 0px;
+
+    }
+
+    .more-btn {
+        text-align: center;
+        margin-top: 32px;
+        font-size: 16px;
+        font-weight: 400;
+        color: #1D1D1D;
+    }
+
+    article>h1 {
+        font-size: 45px;
+        font-weight: 700;
+        color: #FFF;
+        text-align: center;
+        padding-top: 70px;
+    }
+
+    article>p {
+        font-size: 16px;
+        font-weight: 400;
+        color: #FFF;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .all-news-title {
+        font-size: 32px;
+        font-weight: 700;
+        color: #1D1D1D;
+        text-align: center;
+    }
+
+    .all-card-news-one,
+    .all-card-news-two {
+        flex-direction: column;
+    }
+
+    .all-card-banner>img {
+        width: 100%;
+        height: 276.029px;
+        object-fit: cover;
+        border-radius: 8px 8px 0px 0px;
+    }
+
+    .all-card-title {
+        width: 100%;
+        font-size: 18px;
+        font-weight: 600;
+        color: #1D1D1D;
+    }
+
+    .all-card-description {
+        width: 100%;
+        font-size: 16px;
+        font-weight: 400;
+        color: #474747;
+    }
+
+    .all-cards-details {
+        width: 100%;
+    }
+
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    .arbitration-topics,
+    .blogs-cards,
+    .all-news {
+        margin-left: 35px;
+        margin-right: 35px;
+
+    }
+
+    .blogs-images,
+    .blogs-imges-two,
+    .multi-businesses,
+    .business-border,
+    .topic-details-item,
+    .banner-description,
+    .most-recents,
+    .all-cards-details {
+        display: none;
+    }
+
+    .blogs-img-content>h1 {
+        font-size: 32px;
+        font-weight: 700;
+        color: #FFF;
+        padding-top: 110px;
+        padding-left: 28px;
+        text-align: start;
+    }
+
+    .blogs-img-content>p {
+        margin-top: 8px;
+        font-size: 16px;
+        font-weight: 400;
+        color: #FFF;
+        padding-left: 28px;
+        text-align: start;
+    }
+
+
+    .arbitration-filters {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+    }
+
+    .filter-item {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .arbitration-topics-items,
+    .detail-info,
+    .real-estate-items {
+        flex-direction: column;
+    }
+
+    .topics-item-one>img {
+        width: 100%;
+        height: 290.029px;
+    }
+
+    .blogs {
+        width: 100%;
+    }
+
+    .blog-info-banner {
+        display: flex;
+        align-items: center;
+        margin-top: 12px;
+        gap: 4px;
+    }
+
+    .blog-info-banner>a {
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: 400;
+        color: #032D42;
+    }
+
+    .blog-title {
+        font-size: 18px;
+        font-weight: 600;
+        margin-top: 12px;
+        color: #1D1D1D;
+    }
+
+    .blog-description {
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 5px;
+        color: #474747;
+    }
+
+    .blogs-details {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 18px;
+    }
+
+    .reads-infos {
+        display: flex;
+        align-items: center;
+        gap: 4px;
+        color: #1E3AE5;
+    }
+
+    .reads-infos>a {
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: 400;
+        color: #1E3AE5;
+    }
+
+    .read-info>p {
+        font-size: 12px;
+        font-weight: 400;
+    }
+
+    .blogs-read {
+        font-size: 12px;
+        font-weight: 400;
+        color: #1E3AE5;
+    }
+
+    .blog-detail {
+        display: flex;
+        align-items: center;
+        gap: 4px;
+    }
+
+    .blog-detail>a {
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: 400;
+        color: #474747;
+    }
+
+
+    .real-estate-banner>img {
+        width: 100%;
+        height: 200px;
+    }
+
+
+    .recent-title {
+        text-align: center;
+        margin-top: 80px;
+    }
+
+    .blogs-cards {
+        flex-direction: column;
+    }
+
+    .card-banner>img {
+        width: 100%;
+        height: 276.029px;
+        object-fit: cover;
+        border-radius: 8px 8px 0px 0px;
+    }
+
+    .blog-card-title {
+        width: 100%;
+        font-size: 18px;
+        font-weight: 600;
+        color: #1D1D1D;
+    }
+
+    .blog-card-details {
+        width: 100%;
+    }
+
+    .blog-card-description {
+        width: 100%;
+        color: #474747;
+        font-size: 16px;
+        font-weight: 400;
+    }
+
+    .more-btn>button {
+        padding: 20px 40px;
+        border-radius: 4px;
+        background-color: #62D84E;
+        border: 0px;
+    }
+
+    .more-btn {
+        text-align: center;
+        margin-top: 32px;
+    }
+
+    article>h1 {
+        font-size: 55px;
+        font-weight: 700;
+        color: #FFF;
+        text-align: center;
+        padding-top: 70px;
+    }
+
+    article>p {
+        font-size: 16px;
+        font-weight: 400;
+        color: #FFF;
+        padding-left: 35px;
+        padding-right: 35px;
+    }
+
+    .all-news-title {
+        font-size: 32px;
+        font-weight: 700;
+        color: #1D1D1D;
+        text-align: center;
+    }
+
+    .all-card-news-one,
+    .all-card-news-two {
+        flex-direction: column;
+    }
+
+    .all-card-banner>img {
+        width: 100%;
+        height: 276.029px;
+        object-fit: cover;
+        border-radius: 8px 8px 0px 0px;
+    }
+
+    .all-card-title {
+        width: 100%;
+        font-size: 18px;
+        font-weight: 600;
+        color: #1D1D1D;
+    }
+
+    .all-card-description {
+        width: 100%;
+        font-size: 16px;
+        font-weight: 400;
+        color: #474747;
+    }
+
+    .all-cards-details {
+        width: 100%;
+        align-items: center;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    .custom-container,
+    .arbitration-topics,
+    .blogs-card,
+    .all-news {
+        margin-left: 35px;
+        margin-right: 35px;
+
+    }
+
+    .topic-details-item,
+    .banner-description,
+    .more-btn,
+    .recent-title{
+        display: none;
+    }
+
+    .backgrounds-images {
+        width: 100%;
+    }
+
+    .blogs-images {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: -88px;
+        margin-left: 40px;
+        margin-right: 15px;
+    }
+
+    .blogs-images-one>img {
+        width: 120px;
+    }
+
+    .blogs-images-two>img {
+        width: 150px;
+    }
+
+    .blogs-img-content>h1 {
+        font-size: 32px;
+        font-weight: 600;
+        color: #FFF;
+        text-align: center;
+        padding-top: 60px;
+    }
+
+    .blogs-img-content>p {
+        margin-top: 8px;
+        font-size: 14px;
+        font-weight: 400;
+        color: #FFF;
+        text-align: center;
+    }
+
+    .arbitration-filters {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+    }
+
+    .filter-item {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .arbitration-topics-items,
+    .detail-info,
+    .real-estate-items {
+        flex-direction: column;
+    }
+
+    .arbitration-topics-items {
+        width: 100%;
+    }
+
+    .topics-item-one>img {
+        width: 100%;
+        height: 290.029px;
+    }
+
+    .blogs {
+        width: 100%;
+    }
+
+    .blog-info-banner {
+        display: flex;
+        align-items: center;
+        margin-top: 12px;
+        gap: 4px;
+    }
+
+    .blog-info-banner>a {
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: 400;
+        color: #032D42;
+    }
+
+    .blog-title {
+        font-size: 18px;
+        font-weight: 600;
+        margin-top: 12px;
+        color: #1D1D1D;
+    }
+
+    .blog-description {
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 5px;
+        color: #474747;
+    }
+
+    .blogs-details {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 18px;
+    }
+
+    .reads-infos {
+        display: flex;
+        align-items: center;
+        gap: 4px;
+        color: #1E3AE5;
+    }
+
+    .reads-infos>a {
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: 400;
+        color: #1E3AE5;
+    }
+
+    .read-info>p {
+        font-size: 12px;
+        font-weight: 400;
+    }
+
+    .blogs-read {
+        font-size: 12px;
+        font-weight: 400;
+        color: #1E3AE5;
+    }
+
+    .blog-detail {
+        display: flex;
+        align-items: center;
+        gap: 4px;
+    }
+
+    .blog-detail>a {
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: 400;
+        color: #474747;
+    }
+
+
+    .real-estate-banner>img {
+        width: 100%;
+        height: 230px;
+    }
+
+    .recent-title {
+        text-align: center;
+        margin-top: 80px;
+    }
+
+    .blogs-cards {
+        display: flex;
+        justify-content: space-between;
+        gap: 24px;
+    }
+
+    .card-banner>img {
+        width: 100%;
+        height: 234px;
+        object-fit: cover;
+        border-radius: 8px 8px 0px 0px;
+    }
+
+    .blog-info>a {
+        font-size: 12px;
+        font-weight: 400;
+        color: #032D42;
+        text-decoration: none;
+    }
+
+
+    .blog-card-title {
+        width: 100%;
+        font-size: 12px;
+        font-weight: 700;
+        color: #1D1D1D;
+    }
+
+    .blog-card-details {
+        width: 100%;
+    }
+
+    .blog-card-description {
+        width: 100%;
+        color: #474747;
+        font-size: 10px;
+        font-weight: 400;
+    }
+
+    .blog-reads-infos {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        color: #1E3AE5;
+        font-size: 13px;
+        font-weight: 500;
+    }
+
+    .blog-reads-infos>a {
+        color: #1E3AE5;
+        font-size: 13px;
+        font-weight: 500;
+        text-decoration: none;
+    }
+
+    .blog-card-times>a {
+        font-size: 12px;
+        font-weight: 400;
+        color: #474747;
+    }
+
+    .more-btn>button {
+        padding: 20px 40px;
+        border-radius: 4px;
+        background-color: #62D84E;
+        border: 0px;
+    }
+
+    .more-btn {
+        text-align: center;
+        margin-top: 32px;
+    }
+
+    article>h1 {
+        font-size: 55px;
+        font-weight: 700;
+        color: #FFF;
+        text-align: center;
+        padding-top: 93px;
+    }
+
+    article>p {
+        font-size: 20px;
+        font-weight: 400;
+        color: #FFF;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .contact-btn>button {
+        font-size: 20px;
+        font-weight: 400;
+        color: #1D1D1D;
+        border-radius: 4px;
+    }
+
+    .call-num>a {
+        color: #FFF;
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    .all-news-title {
+        font-size: 48px;
+        font-weight: 700;
+        color: #1D1D1D;
+        text-align: center;
+    }
+
+    .all-card-news{
+        width: 660px;
+    }
+
+    .all-card-banner>img {
+        width: 100%;
+        height: 234px;
+        margin-top: 40px;
+        object-fit: cover;
+        border-radius: 8px 8px 0px 0px;
+    }
+
+    .all-card-banner-info>a {
+        font-size: 11px;
+        font-weight: 400;
+        color: #032D42;
+        text-decoration: none;
+    }
+
+    .all-card-title {
+        width: 100%;
+        font-size: 14px;
+        font-weight: 600;
+        color: #1D1D1D;
+        height: 30px;
+    }
+
+    .all-card-description {
+        width: 100%;
+        font-size: 13px;
+        font-weight: 400;
+        color: #474747;
+        height: 50px;
+    }
+
+    .all-cards-details {
+        width: 100%;
+    }
+
+    .all-card-reads-infos {
+        display: flex;
+        align-items: center;
+        gap: 8px;  
+    }
+
+    .all-card-reads-infos>a{
+        font-size: 11px;
+        font-weight: 400;
+        color: #1E3AE5;
+        text-decoration: none;
+    }
+
+    .all-card-detail>a {
+        font-size: 11px;
+        font-weight: 400;
+        text-decoration: none;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    .custom-container,
+    .arbitration-topics {
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+    .blogs-images,
+    .topic-details-item,
+    .banner-description,
+    .more-btn,
+    .recent-title {
+        display: none;
+    }
+
+    .backgrounds-images {
+        width: 100%;
+    }
+
+    .blogs-images {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: -112px;
+        margin-left: 40px;
+        margin-right: 20px;
+    }
+
+    .blogs-images-one>img {
+        width: 120px;
+    }
+
+    .blogs-images-two>img {
+        width: 198px;
+    }
+
+    .blogs-img-content>h1 {
+        font-size: 34px;
+        font-weight: 600;
+        color: #FFF;
+        text-align: center;
+        padding-top: 60px;
+    }
+
+    .blogs-img-content>p {
+        margin-top: 8px;
+        font-size: 15px;
+        font-weight: 400;
+        color: #FFF;
+        text-align: center;
+    }
+
+
+    .arbitration-filters {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+    }
+
+    .filter-item {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .arbitration-topics-items,
+    .detail-info,
+    .real-estate-items {
+        flex-direction: column;
+    }
+
+    .topics-item-one>img {
+        width: 100%;
+        height: 325.029px;
+        object-fit: cover;
+        border-radius: 8px;
+    }
+
+    .blogs {
+        width: 100%;
+    }
+
+    .blog-info-banner {
+        display: flex;
+        align-items: center;
+        margin-top: 12px;
+        gap: 4px;
+    }
+
+    .blog-info-banner>a {
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: 400;
+        color: #032D42;
+    }
+
+    .blog-title {
+        font-size: 18px;
+        font-weight: 600;
+        margin-top: 12px;
+        color: #1D1D1D;
+    }
+
+    .blog-description {
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 5px;
+        color: #474747;
+    }
+
+    .blogs-details {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 18px;
+    }
+
+    .reads-infos {
+        display: flex;
+        align-items: center;
+        gap: 4px;
+        color: #1E3AE5;
+    }
+
+    .reads-infos>a {
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: 400;
+        color: #1E3AE5;
+    }
+
+    .read-info>p {
+        font-size: 12px;
+        font-weight: 400;
+    }
+
+    .blogs-read {
+        font-size: 12px;
+        font-weight: 400;
+        color: #1E3AE5;
+    }
+
+    .blog-detail {
+        display: flex;
+        align-items: center;
+        gap: 4px;
+    }
+
+    .blog-detail>a {
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: 400;
+        color: #474747;
+    }
+
+
+    .real-estate-banner>img {
+        width: 100%;
+        height: 290px;
+        object-fit: cover;
+    }
+
+    .blogs-cards {
+        display: flex;
+        justify-content: space-between;
+        gap: 24px;
+    }
+
+    .blog-card{
+        width: 660px;
+    }
+
+
+    .card-banner>img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+        border-radius: 8px 8px 0px 0px;
+    }
+
+    .blog-info>a {
+        font-size: 12px;
+        font-weight: 400;
+        color: #032D42;
+        text-decoration: none;
+    }
+
+    .blog-card-title {
+        width: 100%;
+        font-size: 14px;
+        font-weight: 600;
+        color: #1D1D1D;
+    }
+
+    .blog-card-details {
+        width: 100%;
+
+    }
+
+    .blog-card-description {
+        width: 100%;
+        color: #474747;
+        font-size: 12px;
+        font-weight: 400;
+    }
+
+    .blog-reads-infos {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
+
+    .blog-reads-infos>a {
+        font-size: 13px;
+        font-weight: 500;
+        color: #1E3AE5;
+        text-decoration: none;
+    }
+
+    .blog-card-times>a {
+        font-size: 13px;
+        font-weight: 400;
+        color: #474747;
+        text-decoration: none;
+    }
+
+    .more-btn>button {
+        padding: 20px 40px;
+        border-radius: 4px;
+        background-color: #62D84E;
+        border: 0px;
+    }
+
+    .more-btn {
+        text-align: center;
+        margin-top: 32px;
+    }
+
+    article>h1 {
+        font-size: 55px;
+        font-weight: 700;
+        color: #FFF;
+        text-align: center;
+        padding-top: 93px;
+    }
+
+    article>p {
+        font-size: 20px;
+        font-weight: 400;
+        color: #FFF;
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+
+    .contact-btn>button {
+        font-size: 20px;
+        font-weight: 400;
+        color: #1D1D1D;
+        border-radius: 4px;
+    }
+
+    .call-num>a {
+        color: #FFF;
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+
+    .all-card-banner>img {
+        width: 268px;
+        height: 276.029px;
+        object-fit: cover;
+        border-radius: 8px 8px 0px 0px;
+    }
+
+    .all-card-title {
+        width: 100%;
+        font-size: 17px;
+        font-weight: 600;
+        color: #1D1D1D;
+    }
+
+    .all-card-description {
+        width: 100%;
+        font-size: 16px;
+        font-weight: 400;
+        color: #474747;
+    }
+
+    .all-cards-details {
+        width: 100%;
+    }
+}
+
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+    .arbitration-topics,
+    .custom-container {
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+    .topic-details-item,
+    .banner-description,
+    .recent-title,
+    .more-btn{
+        display: none;
+    }
+
+    .arbitration-filters {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+    }
+
+    .filter-item {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .arbitration-topics-items,
+    .detail-info,
+    .real-estate-items {
+        flex-direction: column;
+    }
+
+    .topics-item-one>img {
+        width: 100%;
+        height: 420px;
+        object-fit: cover;
+        border-radius: 8px;
+    }
+
+    .blogs {
+        width: 100%;
+    }
+
+    .blog-info-banner {
+        display: flex;
+        align-items: center;
+        margin-top: 12px;
+        gap: 4px;
+    }
+
+    .blog-info-banner>a {
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: 400;
+        color: #032D42;
+    }
+
+    .blog-title {
+        font-size: 18px;
+        font-weight: 600;
+        margin-top: 12px;
+        color: #1D1D1D;
+    }
+
+    .blog-description {
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 5px;
+        color: #474747;
+    }
+
+    .blogs-details {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 18px;
+    }
+
+    .reads-infos {
+        display: flex;
+        align-items: center;
+        gap: 4px;
+        color: #1E3AE5;
+    }
+
+    .reads-infos>a {
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: 400;
+        color: #1E3AE5;
+    }
+
+    .read-info>p {
+        font-size: 12px;
+        font-weight: 400;
+    }
+
+    .blogs-read {
+        font-size: 12px;
+        font-weight: 400;
+        color: #1E3AE5;
+    }
+
+    .blog-detail {
+        display: flex;
+        align-items: center;
+        gap: 4px;
+    }
+
+    .blog-detail>a {
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: 400;
+        color: #474747;
+    }
+
+
+    .real-estate-banner>img {
+        width: 100%;
+        height: 365px;
+        object-fit: cover;
+    }
+
+    .recent-title {
+        text-align: center;
+        margin-top: 80px;
+    }
+
+    .blogs-cards {
+        display: flex;
+        justify-content: space-between;
+        gap: 24px;
+    }
+
+    .card-banner>img {
+        width: 100%;
+        height: px;
+        object-fit: cover;
+        border-radius: 8px 8px 0px 0px;
+    }
+
+    .blog-card-title {
+        width: 100%;
+        font-size: 18px;
+        font-weight: 600;
+        color: #1D1D1D;
+    }
+
+    .blog-card-details {
+        width: 100%;
+    }
+
+    .blog-card-description {
+        width: 100%;
+        color: #474747;
+        font-size: 16px;
+        font-weight: 400;
+    }
+
+    .more-btn>button {
+        padding: 20px 40px;
+        border-radius: 4px;
+        background-color: #62D84E;
+        border: 0px;
+    }
+
+    .more-btn {
+        text-align: center;
+        margin-top: 32px;
+    }
+
+    article>h1 {
+        font-size: 56px;
+        font-weight: 700;
+        color: #FFF;
+        text-align: center;
+        padding-top: 94px;
+    }
+
+    article>p {
+        font-size: 20px;
+        font-weight: 400;
+        color: #FFF;
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+
+    .contact-btn>button {
+        font-size: 20px;
+        font-weight: 400;
+        color: #1D1D1D;
+        border-radius: 4px;
+    }
+
+    .call-num>a {
+        color: #FFF;
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+
+    .all-card-banner>img {
+        width: 100%;
+        height: 276.029px;
+        object-fit: cover;
+        border-radius: 8px 8px 0px 0px;
+    }
+
+    .all-card-title {
+        width: 100%;
+        font-size: 16px;
+        font-weight: 600;
+        color: #1D1D1D;
+    }
+
+    .all-card-description {
+        width: 100%;
+        font-size: 15px;
+        font-weight: 400;
+        color: #474747;
+    }
+
+    .all-cards-details {
+        width: 100%;
+    }
+
+
+}
+
+@media (min-width: 1400px) and (max-width: 1599.98px) {
+    .custom-container {
+        width: 1319.96px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .filter,
+    .filter-item>img,
+    .blogs,
+    .december,
+    .recent-title,
+    .more-btn {
+        display: none;
+    }
+}
+
+@media (min-width: 1600.98px) and (max-width: 5599.98px) {
+    .custom-container {
+        width: 1319.96px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .filter,
+    .filter-item>img,
+    .blogs,
+    .december,
+    .recent-title,
+    .more-btn {
+        display: none;
+    }
+
+    .nav-links {
+        display: flex;
+    }
+}
